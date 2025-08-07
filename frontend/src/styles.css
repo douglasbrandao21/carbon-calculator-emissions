@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+body {
+  background-color: #E8F3F1;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.funnel-display-regular {
+  font-family: "Funnel Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.calculation-result-span {
+  color: #3B3B3B;
+  /* font-family: "Funnel Display", sans-serif; */
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.css-74d805-MuiButtonBase-root-MuiButton-root {
+  background-color: #3DD2CC !important;
+}
+
+.css-1808mag-MuiPaper-root-MuiAccordion-root {
+  background-color: #E8F3F1 !important;
+}
